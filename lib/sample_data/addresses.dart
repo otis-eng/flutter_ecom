@@ -1,0 +1,1 @@
+String sampleDataAddresses = r'''{"data":[{"id":1,"address":"Tverskaya 9, app. 100","province_city":"Moscow", "postal_code":"101000","country":"Russia","active":true},{"id":2,"address":"Nevskiy prospekt 28","province_city":"Saint Petersburg","postal_code":"190000","country":"Russia","active":false}]}''';
